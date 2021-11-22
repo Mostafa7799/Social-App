@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "866766664772",
+    "project_id": "sotial-app",
+    "storage_bucket": "sotial-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866766664772:android:690d6c058ebf2d5b49b811",
+        "android_client_info": {
+          "package_name": "com.example.sotial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866766664772-0768lap5sbm14a34jtfrimndv4fb6h85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sotial_app",
+            "certificate_hash": "a13ff6bbfb993dfcc6f0f96034855abb308ec019"
+          }
+        },
+        {
+          "client_id": "866766664772-tac6bfts09rtvhb76s1qklvht0c3tb3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrYYnqPCqMQShp3BUhsPmy1B4xn_NMH9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866766664772-tac6bfts09rtvhb76s1qklvht0c3tb3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
